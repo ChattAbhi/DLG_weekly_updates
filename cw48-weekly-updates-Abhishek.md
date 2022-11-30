@@ -1,4 +1,4 @@
-Week of 21 - 25.10.2022
+Week of 28.11.2022 - 3.12.2022
 
 Monday
 - Building leg inside OpenSim
